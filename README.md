@@ -121,11 +121,66 @@
 
 ---
 
+## 📱 Android Apps — Published on Google Play Store
+> All apps published under **[PhyTeam](https://play.google.com/store/apps/developer?id=phyteam)** on Google Play Store
+
+---
+
+### 📍 Location Attendance App
+> GPS-based attendance system for teams & field staff — no manual entry, no proxy
+
+**Tech Stack:** `React Native` `Expo` `Firebase` `Google Maps API` `Node.js`
+
+- Real-time **GPS location capture** on check-in/check-out — verifies employee is physically present at site
+- **Geofencing support** — auto-marks attendance when entering/leaving defined radius zones
+- Admin dashboard to view team attendance logs, export reports, and manage locations
+- Works offline — syncs attendance data when connection is restored
+- Firebase Cloud Messaging for **push notifications** — late arrival alerts, shift reminders
+- Multi-role support: Admin / Manager / Employee with separate views
+
+[![Play Store](https://img.shields.io/badge/Download_on_Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.locationattendence)
+
+---
+
+### 🎯 1to7Media — Influencer Platform Mobile App
+> Companion mobile app for the 1to7media.in influencer marketing portal
+
+**Tech Stack:** `React Native` `Expo` `Supabase` `PostgreSQL` `Firebase FCM`
+
+- Full influencer profile management — view stats, campaign history, payment status
+- **Real-time notifications** via Firebase FCM — new campaign alerts, application status updates
+- Campaign discovery feed — browse active brand collaborations and apply directly from app
+- In-app review flow for managers — approve/reject applicants on the go
+- Synced with web portal — same data, mobile-optimized UI
+- Dark premium aesthetic matching the 1to7media brand
+
+[![Play Store](https://img.shields.io/badge/Download_on_Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.phyteam.campaignapp)
+
+---
+
+### ⏰ Smart Alarm App
+> Intelligent alarm app that actually wakes you up — multiple smart dismiss mechanisms
+
+**Tech Stack:** `React Native` `Expo` `SQLite` `AsyncStorage` `Expo Notifications`
+
+- **Smart dismiss modes** — solve a math problem, shake phone, or scan a barcode to turn off alarm (no more snooze abuse)
+- Adaptive alarm scheduling — learns wake patterns and suggests optimal sleep/wake times
+- Offline-first — all alarm data stored locally with SQLite, zero dependency on internet
+- Background task support — alarms fire even when app is closed
+- Custom alarm tones + gradual volume increase for gentle wakeup
+- Minimal, clean UI with dark mode support
+
+[![Play Store](https://img.shields.io/badge/Download_on_Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.smartalarmapp)
+
+---
+
 ## ⚙️ Tech Stack
 
 ### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -207,6 +262,8 @@
 [![1to7media](https://github-readme-stats.vercel.app/api/pin/?username=niteshyadav7&repo=1to7media&theme=tokyonight&hide_border=true)](https://github.com/niteshyadav7/1to7media)
 [![FundaX](https://github-readme-stats.vercel.app/api/pin/?username=niteshyadav7&repo=fundax&theme=tokyonight&hide_border=true)](https://github.com/niteshyadav7/fundax)
 [![RAG Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=niteshyadav7&repo=rag-chatbot&theme=tokyonight&hide_border=true)](https://github.com/niteshyadav7/rag-chatbot)
+[![Smart Alarm](https://github-readme-stats.vercel.app/api/pin/?username=niteshyadav7&repo=smart-alarm&theme=tokyonight&hide_border=true)](https://github.com/niteshyadav7/smart-alarm)
+[![Location Attendance](https://github-readme-stats.vercel.app/api/pin/?username=niteshyadav7&repo=location-attendance&theme=tokyonight&hide_border=true)](https://github.com/niteshyadav7/location-attendance)
 
 </div>
 
