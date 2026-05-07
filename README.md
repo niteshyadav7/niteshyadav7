@@ -121,6 +121,22 @@
 
 ---
 
+### 🔥 TheHype.in — Company Website
+> Official website for TheHype — a full-service influencer & digital marketing agency
+
+**Tech Stack:** `Next.js 14` `TypeScript` `Tailwind CSS` `Framer Motion` `Vercel`
+
+- Built complete company website from scratch — services, portfolio, team, and contact sections
+- **High-performance animations** with Framer Motion — smooth scroll reveals, hover interactions, page transitions
+- Fully responsive across mobile, tablet, and desktop with pixel-perfect layouts
+- SEO optimized — meta tags, Open Graph, sitemap, structured data for agency discovery
+- Contact form with backend integration — leads directly captured to CRM/email
+- Core Web Vitals optimized — LCP < 2s, zero layout shift
+
+[![Live Website](https://img.shields.io/badge/Visit-thehype.in-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://thehype.in)
+
+---
+
 ## 📱 Android Apps — Published on Google Play Store
 > All apps published under **[PhyTeam](https://play.google.com/store/apps/developer?id=phyteam)** on Google Play Store
 
@@ -251,7 +267,6 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=niteshyadav7&theme=tokyo-night&hide_border=true&count_private=true)](https://github.com/niteshyadav7)
 
 </div>
-
 
 ## 🤝 Open to Opportunities
 
