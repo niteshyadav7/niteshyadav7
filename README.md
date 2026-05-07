@@ -163,7 +163,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshyadav7&layout=compact&theme=tokyonight&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=niteshyadav7&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=niteshyadav7&theme=tokyonight&hide_border=true)](https://github.com/niteshyadav7)
 
 </div>
 
