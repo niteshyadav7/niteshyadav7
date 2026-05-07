@@ -26,6 +26,27 @@
 
 ---
 
+## 🔨 Currently Building
+
+| Project | Status | Stack |
+|---------|--------|-------|
+| FundaX v2 — FA + TA unified platform | 🟡 In Progress | Next.js · Claude API · Pine Script v5 |
+| RAG Chatbot v2 — Multi-doc + hybrid search | 🟡 In Progress | Node.js · pgvector · BullMQ · MongoDB |
+| Chat with PDF — Production pipeline | 🟢 Active | Node.js · Tesseract.js · ChromaDB |
+| Senior Frontend Interview Prep | 🟢 Active | React Internals · System Design · DSA |
+
+---
+
+## 📚 Currently Learning
+
+![Frontend System Design](https://img.shields.io/badge/Frontend_System_Design-0078D4?style=flat-square&logoColor=white)
+![GenAI Engineering](https://img.shields.io/badge/GenAI_Engineering-412991?style=flat-square&logo=openai&logoColor=white)
+![DSA](https://img.shields.io/badge/DSA_for_Interviews-F05032?style=flat-square&logo=leetcode&logoColor=white)
+![TypeScript Advanced](https://img.shields.io/badge/Advanced_TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI_Workflows-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+
+---
+
 ## 🏆 Featured Projects
 
 ### 🛒 Sharans.in — Full Stack E-Commerce Platform
@@ -159,11 +180,33 @@
 
 <div align="center">
 
-![Nitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=niteshyadav7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=niteshyadav7&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/niteshyadav7)
 
+<br/>
+
+![Nitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=niteshyadav7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niteshyadav7&layout=compact&theme=tokyonight&hide_border=true)
 
+<br/>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=niteshyadav7&theme=tokyonight&hide_border=true)](https://github.com/niteshyadav7)
+
+<br/>
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=niteshyadav7&theme=tokyo-night&hide_border=true&count_private=true)](https://github.com/niteshyadav7)
+
+</div>
+
+---
+
+## 📌 Featured Repositories
+
+<div align="center">
+
+[![Sharans](https://github-readme-stats.vercel.app/api/pin/?username=niteshyadav7&repo=sharans.in&theme=tokyonight&hide_border=true)](https://github.com/niteshyadav7/sharans.in)
+[![1to7media](https://github-readme-stats.vercel.app/api/pin/?username=niteshyadav7&repo=1to7media&theme=tokyonight&hide_border=true)](https://github.com/niteshyadav7/1to7media)
+[![FundaX](https://github-readme-stats.vercel.app/api/pin/?username=niteshyadav7&repo=fundax&theme=tokyonight&hide_border=true)](https://github.com/niteshyadav7/fundax)
+[![RAG Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=niteshyadav7&repo=rag-chatbot&theme=tokyonight&hide_border=true)](https://github.com/niteshyadav7/rag-chatbot)
 
 </div>
 
