@@ -252,22 +252,6 @@
 
 </div>
 
----
-
-## 📌 Featured Repositories
-
-<div align="center">
-
-[![Sharans](https://github-readme-stats.vercel.app/api/pin/?username=niteshyadav7&repo=sharans.in&theme=tokyonight&hide_border=true)](https://github.com/niteshyadav7/sharans.in)
-[![1to7media](https://github-readme-stats.vercel.app/api/pin/?username=niteshyadav7&repo=1to7media&theme=tokyonight&hide_border=true)](https://github.com/niteshyadav7/1to7media)
-[![FundaX](https://github-readme-stats.vercel.app/api/pin/?username=niteshyadav7&repo=fundax&theme=tokyonight&hide_border=true)](https://github.com/niteshyadav7/fundax)
-[![RAG Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=niteshyadav7&repo=rag-chatbot&theme=tokyonight&hide_border=true)](https://github.com/niteshyadav7/rag-chatbot)
-[![Smart Alarm](https://github-readme-stats.vercel.app/api/pin/?username=niteshyadav7&repo=smart-alarm&theme=tokyonight&hide_border=true)](https://github.com/niteshyadav7/smart-alarm)
-[![Location Attendance](https://github-readme-stats.vercel.app/api/pin/?username=niteshyadav7&repo=location-attendance&theme=tokyonight&hide_border=true)](https://github.com/niteshyadav7/location-attendance)
-
-</div>
-
----
 
 ## 🤝 Open to Opportunities
 
